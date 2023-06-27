@@ -12,7 +12,7 @@ body {
 .post {
     background-color: white;
     width: 400px;
-    height: 520px;
+    height: 550px;
     margin: auto;
 }
 
@@ -22,13 +22,13 @@ body {
 }
 
 .fa-brands.fa-html5 {
-    margin: 7px 0px 5px 10px;
-    font-size: 25px;
+    margin: 8px 0px 5px 10px;
+    font-size: 28px;
 }
 
 .title {
     margin: 5px auto 5px 5px;
-    font-size: 12px;
+    font-size: 13px;
     
 }
 
@@ -55,19 +55,20 @@ img {
     margin: 5px;
 }
 .fa-regular.fa-heart{
-    margin-left: 10px;
+    margin-left: 15px;
 }
 .fa-regular.fa-heart, 
 .fa-regular.fa-comment,
 .fa-regular.fa-paper-plane {
-    margin-left:5px;
+    margin: 10px 5px 10px ;
     font-size: 25px;
 }
 
 .fa-regular.fa-bookmark {
-    margin-left: auto;
+    margin: 10px 10px 0px auto;
+
     font-size: 25px;
-    margin-right: 10px;
+   
 
 }
 .text{
