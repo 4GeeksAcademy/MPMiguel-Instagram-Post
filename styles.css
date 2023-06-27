@@ -22,8 +22,8 @@ body {
 }
 
 .fa-brands.fa-html5 {
-    margin: 5px 1px 5px 10px;
-    font-size: 30px;
+    margin: 7px 0px 5px 10px;
+    font-size: 25px;
 }
 
 .title {
@@ -34,7 +34,7 @@ body {
 
 .fa-solid.fa-ellipsis-vertical {
     font-size: 25px;
-    margin: 10px 10px 0px auto;
+    margin: 10px 10px 12px auto;
 }
 
 /*  Mid part */
