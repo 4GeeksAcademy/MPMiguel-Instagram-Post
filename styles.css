@@ -1,0 +1,72 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Tilt+Prism&display=swap');
+
+
+
+
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post {
+    background-color: white;
+    width: 400px;
+    height: 520px;
+    margin: auto;
+}
+
+/*  Top part */
+.head {
+    display: flex;
+}
+
+.fa-brands.fa-html5 {
+    margin: 5px 1px 5px 10px;
+    font-size: 30px;
+}
+
+.title {
+    margin: 5px auto 5px 5px;
+    font-size: 14px;
+}
+
+.fa-solid.fa-ellipsis-vertical {
+    font-size: 20px;
+    margin: 10px 10px 0px auto;
+}
+
+/*  Mid part */
+.img-post {
+    width: 400px;
+    height: 300px;
+}
+
+img {
+    object-fit: cover;
+    width: 400px;
+    height: 300px;
+}
+
+/*  Bottom part */
+.icons {
+    display: flex;
+    margin: 5px;
+}
+
+.fa-regular.fa-heart, 
+.fa-regular.fa-comment,
+.fa-regular.fa-paper-plane {
+    margin: 2px;
+    font-size: 25px;
+}
+
+.fa-regular.fa-bookmark {
+    margin-left: auto;
+    font-size: 25px;
+
+}
+.text{
+    padding-left: 10px;
+    font-size: 15px;
+}
