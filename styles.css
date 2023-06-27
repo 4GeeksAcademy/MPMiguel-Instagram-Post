@@ -28,11 +28,12 @@ body {
 
 .title {
     margin: 5px auto 5px 5px;
-    font-size: 14px;
+    font-size: 12px;
+    
 }
 
 .fa-solid.fa-ellipsis-vertical {
-    font-size: 20px;
+    font-size: 25px;
     margin: 10px 10px 0px auto;
 }
 
@@ -53,20 +54,23 @@ img {
     display: flex;
     margin: 5px;
 }
-
+.fa-regular.fa-heart{
+    margin-left: 10px;
+}
 .fa-regular.fa-heart, 
 .fa-regular.fa-comment,
 .fa-regular.fa-paper-plane {
-    margin: 2px;
+    margin-left:5px;
     font-size: 25px;
 }
 
 .fa-regular.fa-bookmark {
     margin-left: auto;
     font-size: 25px;
+    margin-right: 10px;
 
 }
 .text{
     padding-left: 10px;
-    font-size: 15px;
+    font-size: 12px;
 }
